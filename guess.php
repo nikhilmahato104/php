@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Nikhil Mahato 0b8de507 </title>
+<title>0b8de507</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
