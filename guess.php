@@ -42,5 +42,10 @@ else
 echo "Missing guess parameter <br> Your guess is too short";
 }
 ?>
+<h1> Welcome to my guessing game </h1>
+  <h1> Welcome to my guessing game </h1>
+  <h1> Welcome to my guessing game </h1>
+<h1> Welcome to my guessing game </h1>
+  <h1> Welcome to my guessing game </h1>
 </body>
 </html>
