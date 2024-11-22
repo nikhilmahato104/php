@@ -4,6 +4,7 @@
   <h1> Welcome to my guessing game </h1>
   <h1> Welcome to my guessing game </h1>
   <h1> Welcome to my guessing game </h1>
+  <h1> Welcome to my guessing game </h1>
 <h1> Welcome to my guessing game </h1>
   <h1> Welcome to my guessing game </h1>
   <h1> Welcome to my guessing game </h1>
